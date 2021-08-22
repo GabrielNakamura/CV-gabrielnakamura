@@ -11,6 +11,6 @@ skills <- tibble::tribble(
   ~skill,               ~level,
   "R",                  5,
   "Markdown",           4.5,
-  "Git",                4,
-  "html",               3
+  "Git",                5,
+  "css",                3
 )

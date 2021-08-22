@@ -52,7 +52,7 @@ Aside
 
 ![logo](GabrielNakamura.jpg){width=100%}
 
-```{r eval=FALSE}
+```{r eval=FALSE, echo=FALSE}
 # When in export mode the little dots are unaligned, so fix that. 
 if(PDF_EXPORT){
   cat("View this CV online with links at https://gabrielnakamura.github.io/CV-gabrielnakamura/")
