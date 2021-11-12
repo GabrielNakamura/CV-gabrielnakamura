@@ -20,7 +20,7 @@ library(tidyverse)
 library(dplyr)
 
 # Set this to true to have links turned into footnotes at the end of the document
-PDF_EXPORT <- FALSE
+PDF_EXPORT <- TRUE
 
 # Holds all the links that are inserted for placement at the end
 links <- c()
