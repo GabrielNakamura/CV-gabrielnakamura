@@ -23,13 +23,13 @@ library(dplyr)
 PDF_EXPORT <- TRUE
 
 # Holds all the links that are inserted for placement at the end
-links <- c()
+#links <- c()
 
 source('parsing_functions.R') # Functions for building sections from CSV data
 source('common_variables.R')  # Small variables for non-csv data such as intro text
 
 # Load csv with position info
-position_data <- read.csv('positions.csv', sep = ";")
+position_data <- read.csv('positions.csv', sep = ",")
 ```
 
 
@@ -172,22 +172,6 @@ print_section(position_data, 'professional_rev')
 ```
 
 
-```{r}
-if(PDF_EXPORT){
-  cat("
-  
-Links {data-icon=link}
---------------------------------------------------------------------------------
 
-<br>
-
-
-")
-  
-  walk2(links, 1:length(links), function(link, index){
-    print(glue('{index}. {link}'))
-  })
-}
-```
 
 
