@@ -10,7 +10,8 @@ teaching_positions,TRUE,Workshop _ Reinventing the loop for: the use of apply fa
 teaching_positions,FALSE,Reproducibility in Ecological Research,Federal University of Rio Grande do Sul,Porto Alegre,2021,2021,Lecturer,How to use Git and GitHub with RStudio to build a reproducible research,NA
 prizes_grants,TRUE,Top downloaded article ,NA,NA,NA,2018,Top downloaded article in Austral Ecology - *Functional and phylogenetic dimensions are more important than the taxonomic dimension for capturing variation in stream fish communities.*,NA,NA
 prizes_grants,TRUE,GBIF Ebbi Nielsen Prize,NA,NA,NA,2019,3rd place prize for *naturaList shiny application*,NA,NA
-prizes_grants,TRUE,Best Thesis in Ecology program,NA,Federal University of Rio Grande do Sul,NA,2020,NA,NA,NA
+prizes_grants,TRUE,Best Thesis in Ecology program,NA,Federal University of Rio Grande do Sul,NA,2020,NA,,NA
+academic_articles,TRUE,Species misidentification affects biodiversity metrics: Dealing with this issue using the new R package naturaList,Ecological Informatics,NA,2022,2022,"Rodrigues A. V. , **Nakamura G.**, Staggemeier V. G. and Duarte L. D. S.",3rd place in Ebbi Nielsen Prize ,DOI:https://doi.org/10.1016/j.ecoinf.2022.101625
 academic_articles,TRUE,FishPhyloMaker: An R package to generate phylogenies for ray-finned fishes,Ecological Informatics,NA,2021,2021,"**NAKAMURA, G.** , Richter A. and Soares B.E.",NA,DOI:https://doi.org/10.1016/j.ecoinf.2021.101481
 academic_articles,TRUE,Taxonomic and phylogenetic beta diversity in headwater stream fish communities of the Parana and Paraguai River basins.,Neotropical Ichthyology,N/A,2021,2021,"**NAKAMURA G.** , VICENTIN W. and SÚAREZ, Y.R.",NA,DOI:https://doi.org/10.1590/1982-0224-2020-0126
 academic_articles,FALSE, Ecologia filogenetica de comunidades de peixes de riacho neotropicais.,Oecologia Australis,N/A,2021,2021,SOARES B.E. and NAKAMURA G. ,NA,DOI:https://doi.org/10.4257/oeco.2021.2502.13

@@ -73,7 +73,7 @@ Contact {#contact}
  
  <i class="fa fa-link"></i> [gabrielnakamura.netlyfy.com](http://gabrielnakamura.netlify.com/)
  
- <i class="fa fa-phone"></i> +55 (51) 996286077
+ <i class="fa fa-phone"></i> +1 (361) 558 5949
 
 
 

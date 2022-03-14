@@ -1,8 +1,7 @@
 # Common non-csv data between CV and resume
 
 # Header with description of what is trying to be accomplished with this CV/Resume
-intro_text <- "Postdoctoral researcher in Federal University of Rio Grande do Sul and temporary professor at 
-    Federal University of Ceara."
+intro_text <- "Postdoctoral Researcher in Biogeography at Texas A&M University - Corpus Christi."
 
 
 # Language skills for skill bars visualization
