@@ -172,6 +172,21 @@ print_section(position_data, 'professional_rev')
 ```
 
 
+Talks {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+```{r}
+print_section(position_data, 'talks_academic')
+```
+
+
+Selected Publications - Preprints {data-icon=book}
+--------------------------------------------------------------------------------
+
+```{r}
+print_section(position_data, 'preprint_article')
+```
+
 
 
 

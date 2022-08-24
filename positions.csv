@@ -31,6 +31,9 @@ technical_production,TRUE,FishPhyloMaker,R package,NA,2020,2020,Maintainer:Gabri
 technical_production,TRUE,naturaList,R package,NA,2019,2019,Maintainer:Arthur Vinicius Rodrigues / Author: Gabriel Nakamura,"The goal of naturaList package is to provide tools for check identification reliability in species occurrence records data sets. The main functionality of naturaList package is provide an automated way to identify for the taxon of interest, which records has the most reliable level of classification, i.e, those records identified by specialists. In addition other characteristics of the records could be used to derive up to six levels of confidence.",NA
 technical_production,TRUE,Dimensionality,R package,NA,2021,2021,Maintainer: Gabriel Nakamura,R package that provide functions to calculate dimensionality measures for biodiversity metrics,NA
 technical_production,TRUE,Mcfly,R package,NA,2019,2019,Maintainer: Gabriel Nakamura / Author: Leandro Duarte,R package to estimate the influence of stabilizing niche selection on species diversity across environmental gradients,NA
+talks_academic,TRUE,Community phylogenetics meets biogeography and macroevolution: towards an integrative process-based framework,Ecological Society of America meeting,NA,2022,20222,"Nakamura G., Rodrigues A.V., Duarte L.D.S and Daru B.H.",Contributed talk ,NA
+talks_academic,TRUE,Decolonizing expertise,Ecological Society of America meeting,NA,2022,2022,Nakamura G.,Invited talk,NA
+talks_academic,TRUE,Shiny phyloregion: an interactive tool for macroecology and biogeography,Evolution meeting,NA,2022,2022,Nakamura G and Daru B.H.,Contributed talk ,NA
 professional_rev,TRUE,Hydrobiologia,Reviewer,NA,2022,2022,NA,NA,NA
 professional_rev,TRUE,Functional Ecology,Reviewer,NA,2021,2021,NA,NA,NA
 professional_rev,TRUE,Ecography,Reviewer,NA,2021,2021,NA,NA,NA
