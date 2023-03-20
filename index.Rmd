@@ -50,7 +50,7 @@ Aside
 ================================================================================
 
 
-![logo](GabrielNakamura.jpg){width=100%}
+![logo](gabriel-avatar-low.jpg){width=100%}
 
 ```{r eval=FALSE, echo=FALSE}
 # When in export mode the little dots are unaligned, so fix that. 
